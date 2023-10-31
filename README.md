@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+
 # SAP PI/PO: Adapter module AddDynamicConfigurationBean
 Custom adapter module for Adapter Engine of SAP PI/PO systems to set dynamic configuration attributes of the processed message.
 
